@@ -113,4 +113,16 @@
 .pl-mo /* meta.output */ {
   color: #1d3e81;
 }
+.active {
+    color: #555555;
+}
+.bloko-tag__section {
+    background-color: rgba(203, 209, 211, 0.3);
+    border: 1px solid transparent;
+    border-collapse: collapse;
+    border-spacing: 0;
+    color: #666;
+    display: inline-block;
+    font-size: 13px;
 
+}
